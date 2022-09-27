@@ -7,6 +7,9 @@ namespace CuteAnimal
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Cat c1 = new Cat("Randall",Mood.Grumpy,Feed.Starving);
+            Cat c2 = new Cat("Meowth",Mood.Hyperactive,Feed.Satisfied);
         }
     }
 }

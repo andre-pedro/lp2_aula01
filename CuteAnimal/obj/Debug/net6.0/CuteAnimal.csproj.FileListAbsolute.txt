@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\bin\Debug\net6.0\CuteAnimal.exe
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\bin\Debug\net6.0\CuteAnimal.deps.json
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\bin\Debug\net6.0\CuteAnimal.runtimeconfig.json
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\bin\Debug\net6.0\CuteAnimal.dll
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\bin\Debug\net6.0\CuteAnimal.pdb
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.AssemblyInfo.cs
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.dll
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\refint\CuteAnimal.dll
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.pdb
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\CuteAnimal.genruntimeconfig.cache
+C:\Users\andre\Desktop\LP2\lp2_aula01\CuteAnimal\obj\Debug\net6.0\ref\CuteAnimal.dll
