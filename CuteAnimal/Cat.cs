@@ -7,7 +7,7 @@ namespace CuteAnimal
 {
     public class Cat
     {
-        private string name;
+        public string Name {get;}
         private Mood mood;
         private Feed feed;
         private int energy;
@@ -15,7 +15,7 @@ namespace CuteAnimal
         
         public Cat(string name, Mood mood, Feed feed) : this()
         {
-            this.name = name;
+            Name = name;
             this.mood = mood;
             this.feed = feed;
         }
@@ -29,8 +29,6 @@ namespace CuteAnimal
             rng = new Random();
             energy = rng.Next(101);
         }
-
-        public string GetName() => name;
 
 
     }
